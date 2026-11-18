@@ -74,3 +74,9 @@ export TERMUX_PACKAGE_VARIANT=apt-android-7
 chmod +x gradlew
 
 ./gradlew --no-daemon assembleDebug
+
+
+find app/build/outputs/apk -type f -name "*.apk" -exec ls -lh {} \;
+
+
+./gradlew --no-daemon clean assembleDebug
