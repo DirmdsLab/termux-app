@@ -1,3 +1,11 @@
+# Changes Made
+
+Merged remote-tracking branch `refs/remotes/pr/termux-app-3079` (ChatGPT patch).
+
+**Source:** https://github.com/termux/termux-app/pull/3079
+
+![3079 Result](img/3079result.png)
+
 # Termux Android Build Environment
 
 
